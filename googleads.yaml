@@ -3,7 +3,7 @@ adwords:
   #############################################################################
   # Required Fields                                                           #
   #############################################################################
-  developer_token: INSERT_DEVELOPER_TOKEN_HERE
+  developer_token: INSERT_DEVELOPER_TOKEN_HERE(Sent_Mail_subject_Configuration file for Google AdWords)
   #############################################################################
   # Optional Fields                                                           #
   #############################################################################
